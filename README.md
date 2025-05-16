@@ -66,6 +66,11 @@
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kim-sohee)](https://github.com/anuraghazra/github-readme-stats)-->
 
 <br>
+
+![trophy](https://github-profile-trophy.vercel.app/?username=Kim-sohee&theme=flat&column=8)
+
+[![Kim-sohee's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Kim-sohee&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/Kim-sohee)
+
 <br>
 
 ## 📫 Contact 📫
