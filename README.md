@@ -89,6 +89,6 @@
   </a>
 
 #### Portfolio :
-  <a href="https://www.notion.so/SOHEE-KIM-Portfolio-1c126c57ecad80b3baadf9b0ea73990c">
+  <a href="https://www.canva.com/design/DAGrthvwp9U/i-N3k27MqLdn4zHtNIh6NA/edit?utm_content=DAGrthvwp9U&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">
     <img src="https://img.shields.io/badge/portfolio-EB508D?style=flat-square&logo=protondrive&logoColor=white"/>
   </a>
