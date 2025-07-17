@@ -92,3 +92,14 @@
   <a href="https://www.canva.com/design/DAGrthvwp9U/i-N3k27MqLdn4zHtNIh6NA/edit?utm_content=DAGrthvwp9U&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">
     <img src="https://img.shields.io/badge/portfolio-EB508D?style=flat-square&logo=protondrive&logoColor=white"/>
   </a>
+
+#### About
+ <div align=center>
+    <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=yudinee&utm_content=farm">
+      <img
+        src="https://render.gitanimals.org/farms/Kim-sohee"
+        width="600"
+        height="300"
+      />
+    </a>
+  </div>
