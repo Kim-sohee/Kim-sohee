@@ -94,7 +94,7 @@
   </a>
 
 #### About
- <div align=center>
+ <div align=left>
     <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=yudinee&utm_content=farm">
       <img
         src="https://render.gitanimals.org/farms/Kim-sohee"
