@@ -92,8 +92,11 @@
   <a href="https://www.canva.com/design/DAGrthvwp9U/i-N3k27MqLdn4zHtNIh6NA/edit?utm_content=DAGrthvwp9U&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">
     <img src="https://img.shields.io/badge/portfolio-EB508D?style=flat-square&logo=protondrive&logoColor=white"/>
   </a>
+  
+## 📊 Algorithm
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dove016)](https://solved.ac/dove016)
 
-#### About
+## 🙄 About
  <div align=left>
     <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=yudinee&utm_content=farm">
       <img
