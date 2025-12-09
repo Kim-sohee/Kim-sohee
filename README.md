@@ -1,3 +1,9 @@
+<div align="right">
+  
+  [![Hits](https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2FKim-sohee?color=5865F2&label=Profile%20Views&size=medium)](https://myhits.vercel.app)
+  
+</div>
+
 <!-- 타이틀 부분 -->
 ![header](https://capsule-render.vercel.app/api?type=blur&height=260&color=gradient&text=Kim%20Sohee&fontColor=black&section=header&reversal=false&descAlign=50&descSize=0&textBg=false)
 
