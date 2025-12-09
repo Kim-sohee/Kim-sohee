@@ -1,6 +1,6 @@
 <div align="right">
   
-  [![Hits](https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2FKim-sohee?color=5865F2&label=Profile%20Views&size=medium)](https://myhits.vercel.app)
+  [![hits](https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2FKim-sohee?color=green&label=hits&size=small)](https://myhits.vercel.app)
   
 </div>
 
