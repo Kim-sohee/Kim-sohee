@@ -75,7 +75,6 @@ GitHub에는 그 과정과 기록을 남기고 있습니다.
 <br>
 
 ## 🤔 Github Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kim-sohee)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://streak-stats.demolab.com?user=Kim-sohee&theme=highcontrast&locale=ko)](https://git.io/streak-stats)
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kim-sohee)](https://github.com/anuraghazra/github-readme-stats)-->
 
@@ -83,7 +82,10 @@ GitHub에는 그 과정과 기록을 남기고 있습니다.
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=Kim-sohee&theme=flat&column=8)
 
-[![Kim-sohee's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Kim-sohee&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/Kim-sohee)
+<p align="left">
+  <a href="https://github.com/Kim-sohee/beautiful-github-homepage"><picture><img align="" height='150px' src="https://beautiful-github-homepage.vercel.app/api?username=Kim-sohee&hide_title=true&show_icons=true&theme=gotham&include_all_commits=true" alt="aryashah2k" /></picture></a>
+  <a href="https://github.com/Kim-sohee/beautiful-github-homepage"><picture><img align="" height='150px' src="https://beautiful-github-homepage.vercel.app/api/top-langs/?username=Kim-sohee&hide_title=false&layout=compact&theme=gotham&count_private=true" /></picture></a>
+</p>
 
 <br>
 
